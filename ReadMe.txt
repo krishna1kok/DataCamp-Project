@@ -1,1 +1,1 @@
-My first git oush related to DataCamp project
+My first git push related to DataCamp project
